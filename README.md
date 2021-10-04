@@ -14,7 +14,10 @@
 ## Menú Principal :
 
 ## SendFileCj7 :
-* **Codifica y Decodifica** URI (o fragmentos de la misma) de una manera rápida y sencilla.
+* **Comparte y descarga archivos** ilimitadamente de manera anónima, rápida y sencilla.
+* Duración del enlace: **30 días**.
+* Comparte archivos con un tamaño de hasta **5 Gigas**.
+* 500 Gigas/mes... por IP.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
