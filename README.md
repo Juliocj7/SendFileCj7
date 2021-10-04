@@ -12,9 +12,8 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20211003-174517_Termux](https://user-images.githubusercontent.com/81049859/135772531-3676a9c5-6ddd-4bbe-924e-800b2bc4d0f3.png)
 
-## UrlEncodeCj7 :
+## SendFileCj7 :
 * **Codifica y Decodifica** URI (o fragmentos de la misma) de una manera rápida y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
@@ -29,13 +28,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` apt update && apt upgrade -y `
 
-* ` git clone https://github.com/Juliocj7/UrlEncodeCj7 `
+* ` git clone https://github.com/Juliocj7/SendFileCj7 `
 
-* ` cd UrlEncodeCj7 `
+* ` cd SendFileCj7 `
 
 * ` chmod +x * `
 
-* ` ./UrlEncodeCj7 `
+* ` ./SendFileCj7 `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
