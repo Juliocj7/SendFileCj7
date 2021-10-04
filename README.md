@@ -12,6 +12,7 @@
 </details>
 
 ## Menú Principal :
+![Screenshot_20211003-233741_Termux](https://user-images.githubusercontent.com/81049859/135789293-9a8acc6c-d55f-468b-879f-3d29a2e6ccbd.png)
 
 ## SendFileCj7 :
 * **Comparte y descarga archivos** ilimitadamente de manera anónima, rápida y sencilla.
