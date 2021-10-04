@@ -15,7 +15,7 @@
 ![Screenshot_20211003-233741_Termux](https://user-images.githubusercontent.com/81049859/135789293-9a8acc6c-d55f-468b-879f-3d29a2e6ccbd.png)
 
 ## SendFileCj7 :
-* **Comparte y descarga archivos** ilimitadamente de manera anónima, rápida y sencilla con cualquier persona en cualquier parte del planeta.
+* **Comparte y descarga archivos** ilimitadamente de manera anónima, rápida y sencilla.
 * Duración del enlace: **30 días**.
 * Comparte archivos con un tamaño de hasta **5 Gigas**.
 * 500 Gigas/mes... por IP.
