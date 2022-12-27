@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220523-111255_Termux](https://user-images.githubusercontent.com/81049859/169872338-c12a03aa-9a53-4482-b55f-2b55f1cc6562.png)
+![Screenshot_20221227-163225_Termux](https://user-images.githubusercontent.com/81049859/209719725-03d3235b-1eca-46f7-8e57-29e18ce2207c.png)
 
 ## SendFileCj7 :
 * **Comparte y descarga archivos** ilimitadamente de manera anónima, rápida y sencilla.
