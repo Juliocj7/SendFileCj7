@@ -46,10 +46,10 @@ ______________________________________________________
 ![1000328332](https://github.com/Juliocj7/SendFileCj7/assets/81049859/170f2d12-b32e-49b8-953a-c2e884544fbf)
 
 ## SendFileCj7 :
-* **Comparte y descarga archivos** ilimitadamente de manera anónima, rápida y sencilla.
+* **Comparte** y **descarga** archivos ilimitadamente de manera anónima, rápida y sencilla.
+* Comparte archivos con un tamaño máximo de hasta **5 Gigas**.
 * Duración del enlace: **30 días**.
-* Comparte archivos con un tamaño de hasta **5 Gigas**.
-* 500 Gigas/mes... por IP.
+* 500 Gigas/mes por IP.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -57,17 +57,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/SendFileCj7 `
-
-* ` cd SendFileCj7 `
-
-* ` chmod +x * `
-
-* ` ./SendFileCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/SendFileCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd SendFileCj7 && chmod +x * && ./SendFileCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
